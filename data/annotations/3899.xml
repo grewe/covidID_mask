@@ -1,0 +1,50 @@
+<annotation>
+	<folder>C:/Users/STSC/Downloads/Medical+mask/Medical mask/Medical Mask/anoCopy</folder>
+	<filename>3899</filename>
+	<path>C:/Users/STSC/Downloads/Medical+mask/Medical mask/Medical Mask/anoCopy</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>948</width>
+		<height>569</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>754</xmin>
+			<ymin>67</ymin>
+			<xmax>835</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>face_with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>593</xmin>
+			<ymin>94</ymin>
+			<xmax>674</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>face_with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>68</ymin>
+			<xmax>558</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>
