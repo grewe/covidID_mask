@@ -1,0 +1,26 @@
+<annotation>
+	<folder>incorrect</folder>
+	<filename>sm (199)</filename>
+	<path>C:\Users\STSC\Desktop\webScraped\incorrect\sm (199).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_with_mask_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>18</ymin>
+			<xmax>171</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

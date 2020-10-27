@@ -1,0 +1,38 @@
+<annotation>
+	<folder>newImages</folder>
+	<filename>instaht (40)</filename>
+	<path>C:\Users\STSC\Desktop\newImages\instaht (40).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>508</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_with_mask_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>120</ymin>
+			<xmax>399</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>face_with_mask_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>3</ymin>
+			<xmax>685</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

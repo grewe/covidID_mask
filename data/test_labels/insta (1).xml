@@ -1,0 +1,26 @@
+<annotation>
+	<folder>insta</folder>
+	<filename>insta (1)</filename>
+	<path>C:\Users\STSC\Desktop\insta\insta (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>974</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_with_mask_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>134</ymin>
+			<xmax>415</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>
