@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>sm (459)</filename>
+	<path>C:\Users\STSC\Desktop\images\sm (459).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>731</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_with_mask_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1</ymin>
+			<xmax>541</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

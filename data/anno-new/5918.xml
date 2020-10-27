@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>5918</filename>
+	<path>C:\Users\STSC\Desktop\images\5918.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>697</xmin>
+			<ymin>126</ymin>
+			<xmax>901</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>
