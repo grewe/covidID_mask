@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'face_no_mask'
+  }
+
+item {
+    id: 2
+    name: 'face_with_mask'
+  }
+
+item {
+    id: 3
+    name: 'face_with_mask_incorrect'
+  }
