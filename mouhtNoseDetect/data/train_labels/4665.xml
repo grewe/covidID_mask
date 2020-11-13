@@ -1,0 +1,26 @@
+<annotation>
+	<folder>incorrect</folder>
+	<filename>4665.jpg</filename>
+	<path>/Users/mrkes/Desktop/ComputerVisionProject/incorrect/4665.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>101</ymin>
+			<xmax>166</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

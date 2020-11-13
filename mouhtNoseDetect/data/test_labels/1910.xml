@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nose</folder>
+	<filename>1910.jpg</filename>
+	<path>/Users/mrkes/Desktop/ComputerVisionProject/nose/1910.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>91</ymin>
+			<xmax>551</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

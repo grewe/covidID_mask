@@ -1,0 +1,26 @@
+<annotation>
+	<folder>incorrect</folder>
+	<filename>sm (33).jpg</filename>
+	<path>/Users/mrkes/Desktop/ComputerVisionProject/incorrect/sm (33).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1217</width>
+		<height>859</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>853</xmin>
+			<ymin>393</ymin>
+			<xmax>886</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>
