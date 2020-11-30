@@ -1,0 +1,14 @@
+This directory contains all files related to training of PropMask's MouthNoseDetect model which is an EfficientDet D0 architecture training on data with the following labels for understanding Mask Wearing Conditions using Computer Vision and ML (tensorflow framework) and resulting in the includision in the CovidID Health SituationAwarness Android App.:
+
+mouth
+nose
+
+
+CONTENT:
+
+/data - xml and files used in training
+/train - scripts for training including configuration file
+/train_results - output for tensorfboard ( or in readme links to same conent in drive)
+/test_results -  (or in readme links to same conent in drive) /test_images -shows test images  and evalMetrics
+/SavedModel - directory of saved model 
+/TFlite - script for conversion AND output tflite model
