@@ -1,7 +1,7 @@
 This directory contains all files related to training of PropMask's MaskDetect model which is an EfficientDet D0 architecture training on data with the following labels for understanding Mask Wearing Conditions using Computer Vision and ML (tensorflow framework) and resulting in the includision in the CovidID Health SituationAwarness Android App.:
 
 face_with_mask
-face_with_no_mask
+face_no_mask
 face_with_mask_incorrect
 
 
