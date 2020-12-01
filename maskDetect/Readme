@@ -10,7 +10,7 @@ CONTENT:
 /data - xml and files used in training
 /train - scripts for training including configuration file
 /train_results - output for tensorfboard ( or in readme links to same conent in drive)
-/test_results -  (or in readme links to same conent in drive) /test_images -shows test images  and evalMetrics
+/test_results -  /test_images -shows test images , /results -shows inference on test images, TestImagesTensorOutput.txt -tensor output of test image inference, EvaluationMetrics.txt- evaluation output cell
 /SavedModel - directory of saved model 
 /TFlite - script for conversion AND output tflite model
 
