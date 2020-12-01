@@ -7,10 +7,11 @@ face_with_mask_incorrect
 
 CONTENT:
 
-/data - xml and files used in training
+/data - images,annotations and label map files used in training
 /train - scripts for training including configuration file
-/train_results - output for tensorfboard ( or in readme links to same conent in drive)
+/train_results - Google drive link : https://drive.google.com/drive/folders/1isJwippJwA4Mdvycu03jfo98x-w4qGam?usp=sharing
 /test_results -  /test_images -shows test images , /results -shows inference on test images, TestImagesTensorOutput.txt -tensor output of test image inference, EvaluationMetrics.txt- evaluation output cell
 /SavedModel - directory of saved model 
 /TFlite - script for conversion AND output tflite model
+TFrecords - Google drive link: https://drive.google.com/drive/folders/1q1aZ0WAn3ZsDnnlT-iwNggXrxz769qgu?usp=sharing
 
