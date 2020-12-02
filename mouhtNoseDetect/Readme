@@ -12,3 +12,4 @@ CONTENT:
 /test_results -  (or in readme links to same conent in drive) /test_images -shows test images  and evalMetrics
 /SavedModel - directory of saved model 
 /TFlite - script for conversion AND output tflite model
+/TFrecords - https://drive.google.com/drive/folders/1QzikA0-VO7aGovogoHcJJILxOXtORiV4
