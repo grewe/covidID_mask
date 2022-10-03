@@ -7,7 +7,7 @@ face_with_mask_incorrect
 
 CONTENT:
 
-/data - images,annotations and label map files used in training  (in (Pascal VOC)[https://towardsdatascience.com/coco-data-format-for-object-detection-a4c5eaf518c5] )
+/data - images,annotations and label map files used in training  (in Pascal VOC format - read [https://towardsdatascience.com/coco-data-format-for-object-detection-a4c5eaf518c5] )
 /train - training colab and configuration file
 /train_results - Google drive link : https://drive.google.com/drive/folders/1isJwippJwA4Mdvycu03jfo98x-w4qGam?usp=sharing
 /test_results -  /test_images -shows test images , /results -shows inference on test images, TestImagesTensorOutput.txt -tensor output of test image inference, EvaluationMetrics.txt- evaluation output cell
